@@ -31,7 +31,7 @@ Se preferir rodar na sua máquina:
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/GabrielDavi7/A-Star_Search_Algorithm.git](https://github.com/GabrielDavi7/A-Star_Search_Algorithm.git)
+   git clone https://github.com/GabrielDavi7/A-Star_Search_Algorithm.git
    cd A-Star_Search_Algorithm
 2. Instale as dependências:
     ```bash
