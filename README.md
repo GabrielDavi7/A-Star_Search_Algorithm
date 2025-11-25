@@ -1,5 +1,3 @@
-> Um projeto de Teoria dos Grafos aplicado à mobilidade urbana real na cidade de Montes Claros/MG.
-
 ## 📄 Sobre o Projeto
 
 Este repositório contém a implementação de um sistema de roteamento urbano que utiliza dados geográficos reais do **OpenStreetMap (OSM)** para encontrar o caminho mais curto entre dois pontos.
